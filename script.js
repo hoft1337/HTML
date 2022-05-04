@@ -54,7 +54,7 @@ let btnGreen = getElement (BTN_GREEN)
 let btnYellow = getElement (BTN_YELLOW)
 
 // btnRed.onclick = function() {
-//     text.style.color = 'red'
+//     text.style.color = 'red'                         // Быстрее и проще использовать стрелочную функцию, как сделано ниже.
 //     alert('Цвет текста изменен на красный')
 // };
 
