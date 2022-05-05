@@ -27,3 +27,6 @@ btnRed.addEventListener('mouseenter', function() {
 btnRed.addEventListener('mouseleave', function() {
     alert('Указатель покинул поле кнопки')
 })
+
+
+// Здесь скрипт кнопкиы
