@@ -29,4 +29,4 @@ btnRed.addEventListener('mouseleave', function() {
 })
 
 
-// Здесь скрипт кнопкиы
+// Здесь скрипт кнопки.
